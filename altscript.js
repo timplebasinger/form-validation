@@ -1,6 +1,6 @@
 //Moved not used code from prior commits to this file
 
-Event listeners *****Basic Form Validation*****
+//Event listeners *****Basic Form Validation*****
 form.addEventListener("submit", function (e) {
   e.preventDefault();
 
